@@ -1,5 +1,5 @@
-I am currently working as a data analyst at Baltimore Development Corporation and can be reached at jenkirschnick@gmail.com or jduffy@baltimoredevelopment.com. 
-I earned a Data Analytics certificate from Johns Hopkins University in Baltimore, MD.
+I specialize in working with ESG and impact investing data. I can be reached at jennifer@cherrytreelaneanalytics.io. 
+
 
 
 <!---
