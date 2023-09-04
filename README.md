@@ -1,4 +1,4 @@
-I specialize in working with ESG and impact investing data. I can be reached at jennifer@cherrytreelaneanalytics.io. 
+I specialize in ESG and impact investing data. I can be reached at jennifer@cherrytreelaneanalytics.io. 
 
 
 
