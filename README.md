@@ -1,6 +1,8 @@
 Founder of Cherry Tree Lane Analytics which specializes in providing curated, low-cost ESG and impact investing data. 
 
-While I've been involved with investing for over 20 years, I became more interested in data related to Environmental-Social-Governance (ESG) factors while working as a data and research analyst at Baltimore Development Corporation (BDC), the economic development agency for Baltimore City, Maryland. Corporate activities have such a huge impact on the world that we live in - transparency and accountability for those activities is crucial. ESG can include measures such as: how much pollution a company is responsible for, how equitable their hiring practices are, and whether their board has adequate oversight. Obviously, we can only see if progress is being made if we are collecting, tracking, and analyzing data related to these activities.
+While I've been involved with investing for over 20 years, I became more interested in data related to Environmental-Social-Governance (ESG) factors while working as a Data and Research Analyst at Baltimore Development Corporation (BDC), the economic development agency for Baltimore City, Maryland. 
+
+Corporate activities have such a huge impact on the world that we live in - transparency and accountability for those activities is crucial. ESG can include measures such as: how much pollution a company is responsible for, how equitable their hiring practices are, and whether their board has adequate oversight. Obviously, we can only see if progress is being made if we are collecting, tracking, and analyzing data related to these activities.
 
 At this time, ESG data can be a hodge-podge, although, thankfully, it is becoming more streamlined and structured. 
 It can be difficult to find low-cost or free ESG data aggregated in one place, especially for those who aren't data or ESG experts.
